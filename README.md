@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 
 <div align="center">
 <br><br><br>
- 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=D3CAE7&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Joonhyung.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
 
 <br><br><br>
  <div>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FerionRK621%2Fhit-counter&count_bg=%23AFA2F7&title_bg=%23000000&icon=&icon_color=%23070707&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
   
 🙊 Skills Frontend
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
