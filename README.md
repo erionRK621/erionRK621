@@ -24,16 +24,22 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=D3CAE7&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Joonhyung.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
 ![Profile views](https://gpvc.arturio.dev/erionRK621) 
-<br><br><br>
- <div>
-
-  
+ <br><br>
+ 
 🙊 Skills Frontend
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+ <br><br><br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erionRK621)](https://github.com/anuraghazra/github-readme-stats)
+ <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhkim62134)](https://solved.ac/jhkim62134/)
+<br><br>
+ <div>
+
+  
+
  </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
