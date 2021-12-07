@@ -20,13 +20,10 @@ Here are some ideas to get you started:
 
 
 
-
-
-
 <div align="center">
 <br><br><br>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=D3CAE7&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Joonhyung.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+
 
 <br><br><br>
  <div>
@@ -39,7 +36,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 
  </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erionRK621&&show_icons=true&theme=dark)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=erionRK621&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff" width=49.2% />
 </a>
